@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityalate212
-- 👀 I’m interested in Cloud Computing, Storage Technologies, HTML, CSS, Next.Js and Databases
+- 👀 I’m interested in Cloud Computing, Data Analysis, Python, Mssql server, power bi, etc
 - 🌱 I’m currently learning all of those things.
 - 📫 Contact me via adityalate212@icloud.com
 
